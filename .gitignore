@@ -1,0 +1,9 @@
+# build artifacts
+build/
+release/
+deb_dist/
+dist/
+*.egg-info/
+*.deb
+*.tar.gz
+platform/HalPackage/cache/
